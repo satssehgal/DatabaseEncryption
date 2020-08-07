@@ -5,7 +5,7 @@ To Use this file you will need to download a few dependencies.
 1) You will need to download pysqlcipher which can be found here --> https://github.com/leapcode/pysqlcipher
 - You may need to use pysqlcipher3 depending on your version of python
 
-## How to Run (See Video Demonstation here-->
+## How to Run (See Video Demonstation here--> https://youtu.be/peJhaJKwrVI
 
 Copy the code and run each method one at a time.
 1) The first method will create a database called Balance.db which is an SQLite database. You will need to pass it some data.
